@@ -1,2 +1,2 @@
 # LoL-Scripts
-League of Legends Scripts
+Combines Nunu Q + Smite to guarantee takedowns on jungle camps.
